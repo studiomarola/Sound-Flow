@@ -1,0 +1,17 @@
+{
+  "name": "SoundFlow",
+  "short_name": "SoundFlow",
+  "description": "Plataforma profissional de controle de lançamento de músicas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F9FA",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
